@@ -1,0 +1,113 @@
+{
+  "item": [
+    {
+      "_id": "62821e969932cf152a62c773",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/60e1dbd34a5044c5ac4cabdb00c3fc43_9366/ASWEEMOVE_Shoes_Blue_FW1674_01_standard.jpg",
+        "https://placehold.co/840x840",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d579f76dcda6428f8699abdb00c40a6d_9366/ASWEEMOVE_Shoes_Blue_FW1674_02_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3a96f31f570c4ea0ac5babdb00c4185e_9366/ASWEEMOVE_Shoes_Blue_FW1674_04_standard.jpg"
+      ],
+      "name": "ASWEMOVE SHOES",
+      "description": "Men Running",
+      "category": "shoes",
+      "price": 1050,
+      "size": [6, 7, 8, 9, 10, 11, 12],
+      "rating": 4.4,
+      "gender": "men",
+      "brand": "sportsWear",
+      "collections": "superNova"
+    },
+    {
+      "_id": "62821e969932cf152a62c76b",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b0ac009a575444bb9490acee00d58a6d_9366/ZX_2K_Boost_2.0_Shoes_Blue_GZ7733_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/de23ec1501b340c68850acee00d5986b_9366/ZX_2K_Boost_2.0_Shoes_Blue_GZ7733_02_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/833f8e77e29643998565acee00db39ea_9366/ZX_2K_Boost_2.0_Shoes_Blue_GZ7733_04_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a35aef5159be42748abcacee00db4226_9366/ZX_2K_Boost_2.0_Shoes_Blue_GZ7733_05_standard.jpg"
+      ],
+      "name": "ZX 2K BOOST 2.0 SHOES",
+      "description": "Men Running",
+      "category": "shoes",
+      "price": 1399,
+      "size": [7, 8, 9, 10],
+      "rating": 3.9,
+      "gender": "men",
+      "brand": "performance",
+      "collections": "superNova"
+    },
+    {
+      "_id": "62821e969932cf152a62c76c",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f9615e3982384bd284fda98101347bb0_9366/Advantage_Shoes_White_F36424_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6c4794e061374a66b957a98101349323_9366/Advantage_Shoes_White_F36424_02_standard_hover.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3bd21597f3ef430bb871a9810134ab13_9366/Advantage_Shoes_White_F36424_04_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/81dc8e64d8d049fa9569a9810134b763_9366/Advantage_Shoes_White_F36424_05_standard.jpg"
+      ],
+      "name": "ADVANTAGE SHOES",
+      "description": "Men Sport Inspired",
+      "category": "shoes",
+      "price": 990,
+      "size": [7, 8, 9, 10],
+      "rating": 4.1,
+      "gender": "men",
+      "brand": "sportsWear",
+      "collections": "clima"
+    },
+    {
+      "_id": "62821e969932cf152a62c772",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/dc04507ce9404c889a3eaba20126b242_9366/ASWEEMOVE_Shoes_Black_FW1676_01_standard.jpg",
+        "https://placehold.co/840x840",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fa900ab3b9fa45b1a0fbaba20126bf3d_9366/ASWEEMOVE_Shoes_Black_FW1676_02_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6746f16bbf384fd3b0e4aba20126cd92_9366/ASWEEMOVE_Shoes_Black_FW1676_04_standard.jpg"
+      ],
+      "name": "ASWEEMOVE SHOES",
+      "description": "Men Running",
+      "category": "shoes",
+      "price": 809,
+      "size": [9, 10, 11, 12],
+      "rating": 4.6,
+      "gender": "men",
+      "brand": "performance",
+      "collections": "ultraBoost"
+    },
+    {
+      "_id": "62821e969932cf152a62c774",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d798865c9b104fc4893cad9c00631ae3_9366/Unifactor_Shoes_Grey_EW2424_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/86baf08880134b6cb77dad9c0063367b_9366/Unifactor_Shoes_Grey_EW2424_02_standard_hover.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/393a3dbf4a9a4385824cad9c00632a36_9366/Unifactor_Shoes_Grey_EW2424_04_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b9da2ad0542d40d798f6ad9c00631e9a_9366/Unifactor_Shoes_Grey_EW2424_05_standard.jpg"
+      ],
+      "name": "UNIFACTOR SHOES UZ",
+      "description": "Men Running",
+      "category": "shoes",
+      "price": 950,
+      "size": [8, 9, 10, 11],
+      "gender": "men",
+      "brand": "sportsInspired",
+      "collections": "adicolor"
+    },
+    {
+      "_id": "62821e969932cf152a62c775",
+      "img": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/63ef8d5fbbd44d1494a1ad8500e54a97_9366/Kollide_Shoes_Grey_EW2516_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b51a39a025ef460db377ad8500e5458c_9366/Kollide_Shoes_Grey_EW2516_02_standard_hover.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4247b2c786224e40ad98ad8500e52056_9366/Kollide_Shoes_Grey_EW2516_04_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/34a38edcbf284a7c9c52ad8500e52aa1_9366/Kollide_Shoes_Grey_EW2516_05_standard.jpg"
+      ],
+      "name": "KOLLIDE SHOES",
+      "description": "Men Running",
+      "category": "shoes",
+      "price": 1200,
+      "size": [6, 7, 8, 9],
+      "rating": 4.1,
+      "gender": "men",
+      "brand": "performance",
+      "collections": "superNova"
+    }
+  ],
+  "totalPages": 2,
+  "totalProducts": 8
+}
